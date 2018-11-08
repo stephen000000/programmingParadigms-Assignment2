@@ -19,9 +19,3 @@
 (define (cout_top_level lst)
   (length lst)
   )
-
-;(provide count_instances)
-
-;(define (count_instance el lst)
-          
- ; )
